@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1626797525 source:d:\github_c++\object_oriented_cpp\avltreeclass\avltree\src\avltree.cpp
+	"AVLTree.h"
+
+1626798295 d:\github_c++\object_oriented_cpp\avltreeclass\avltree\include\avltree.h
+	<iostream>
+
+1626798067 source:d:\github_c++\object_oriented_cpp\avltreeclass\avltree\main.cpp
+	<iostream>
+	"AVLTree.h"
+
